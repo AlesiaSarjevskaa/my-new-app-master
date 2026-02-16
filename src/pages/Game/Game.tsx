@@ -33,7 +33,7 @@ export default function Game() {
       setInfo("Základní deska vložena.");
       return;
     }
-    setInfo("Vyberte nějakou komponentu.");
+    setInfo("Vyberte nějakou komponentu!.");
   };
 
   const cpuHolderClick = (e: any) => {
